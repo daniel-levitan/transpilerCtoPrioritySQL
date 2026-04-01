@@ -1,7 +1,7 @@
-# STC Transpiler
+# Transpiler
 
 A transpiler from a custom C-like language to **Priority SQL** — the procedural
-SQL dialect used by [Priority Software](https://prioritysoftware.github.io/sdk/Flow-Control).
+SQL dialect used by [Priority Software](https://prioritysoftware.github.io/sdk/SQL-Syntax).
 
 Built from scratch: hand-written lexer, recursive descent parser, AST, and code generator.
 
